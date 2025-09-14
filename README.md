@@ -83,6 +83,12 @@ python mmm_model.py
 - residuals.png — Residual analysis over time
 - feature_importance.png — Coefficients of each feature (interpretable importance)
 
+- Feature importance <br>
+  ![Screenshot](./outputs/feature_importance.png)
+- Residuals <br>
+  ![Screenshot](./outputs/residuals.png)
+
+  
 
 # 🔍 Key Insights
 - Social media spend drives Google search spend, which mediates revenue.
